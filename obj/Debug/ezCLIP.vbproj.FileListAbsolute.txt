@@ -1,0 +1,14 @@
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\bin\Debug\ezCLIP.exe.config
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\obj\Debug\ezCLIP.Form1.resources
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\obj\Debug\ezCLIP.Resources.resources
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\obj\Debug\ezCLIP.vbproj.GenerateResource.Cache
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\bin\Debug\ezCLIP.exe
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\bin\Debug\ezCLIP.pdb
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\bin\Debug\ezCLIP.xml
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\obj\Debug\ezCLIP.exe
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\obj\Debug\ezCLIP.xml
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\obj\Debug\ezCLIP.pdb
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\bin\Debug\ezCLIP.exe.manifest
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\bin\Debug\ezCLIP.application
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\obj\Debug\ezCLIP.exe.manifest
+E:\Dokumenter\Dokumenter\VS2013\Projekter\ezCLIP\ezCLIP\obj\Debug\ezCLIP.application
