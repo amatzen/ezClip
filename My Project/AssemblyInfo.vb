@@ -15,7 +15,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyCopyright("Copyright © 2015")> 
 <Assembly: AssemblyTrademark("Matzen Holding")> 
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)> 
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
 <Assembly: Guid("6ef9f005-a7e8-46b7-a144-afd937c5a7d6")> 

@@ -24,7 +24,12 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <ApplicationRevision>2</ApplicationRevision>
+    <SupportUrl>https://github.com/amatzen/ezClip/issues</SupportUrl>
+    <ErrorReportUrl>https://github.com/amatzen/ezClip/issues</ErrorReportUrl>
+    <TargetCulture>en</TargetCulture>
+    <ProductName>ezClipboard</ProductName>
+    <PublisherName>Alexander Matzen</PublisherName>
+    <ApplicationRevision>6</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -168,6 +173,14 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <FileAssociation Include=".clip">
+      <Visible>False</Visible>
+      <Description>ezClipboard File</Description>
+      <Progid>1</Progid>
+      <DefaultIcon>icon.ico</DefaultIcon>
+    </FileAssociation>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
